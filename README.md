@@ -6,8 +6,8 @@ Please contact me if you want learn more about the compiler and/or want to see t
 
 ### Topics
 
-- Languages: Java, W, F, VHDL, x64 Assembly
-- Concepts:
+- **Languages**: Java, W, F, VHDL, x64 Assembly
+- <ins>**Concepts**</ins>:
   - **Techniques**: Recursion, Parsing, Manipulaton of Immutable Data Structures, Idempotentency, Abstraction, OOP, Inheritance & Polymorphism
   - **Algorithms**: Recursive Descent, Parsing Algorithms
   - **Data Structures**: ASTs, Stacks, Hashsets/Hashmaps, Linked Lists, Immutable Data Structures
