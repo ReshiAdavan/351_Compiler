@@ -11,5 +11,5 @@ Please contact me if you want learn more about the compiler and/or want to see t
   - Techniques: Recursion, Parsing, Manipulaton of Immutable Data Structures, Idempotentency, Abstraction, OOP, Inheritance & Polymorphism
   - Algorithms: Recursive Descent, Parsing Algorithms
   - Data Structures: ASTs, Stacks, Hashsets/Hashmaps, Linked Lists, Immutable Data Structures
-  - Concepts: Lexification/Lexical Analysis/Lexers, Tokenization, Parsing, Semantic Analysis, AST Building, Symbol Tables, Process Splitting, NFAs, DFAs, Finite & Infinite Automatas
+  - Concepts: Lexification/Lexical Analysis/Lexers, Tokenization, Parsing, Semantic Analysis, AST Building, Symbol Tables, Process Splitting, NFAs, DFAs, Finite & Infinite Automatas, Grammars, LL(1)
   - Other: GraphViz, SVGs, Parboiled
